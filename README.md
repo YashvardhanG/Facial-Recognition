@@ -70,7 +70,7 @@ This project uses a pre-exisiting frontal face cascade known as the <a href = "h
 The process is as follows:<br><br>
 
 <p align = "center">
-<img src="Resources/cascade.png" alt="Cascade" width="250" height="250"><br>
+<img src="Resources/cascade.png" alt="Cascade" width="150" height="150"><br>
 <b>The 'box' around the face is defined by the usage of a cascade. Photos are captured with the help of OpenCV. All photos are saved locally and no data is transferred or communicated.</b><br><br>
 </p>
 <br><br>
@@ -80,7 +80,7 @@ The process is as follows:<br><br>
 </p>
 <br><br>
 <p align = "center">
-<img src="Resources/verification.png" alt="Logo" width="250" height="250"><br>
+<img src="Resources/verification.png" alt="Logo" width="150" height="150"><br>
 <b>Finally, by using OpenCV and the previously trained model, the software recognises your identity and the percentage of facial matching. It displays the name given when the database is trained on the top, and the percentage of facial matching on the bottom.</b>
 </p>
 <br>
