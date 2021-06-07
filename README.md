@@ -31,7 +31,7 @@
 
 This **Facial Recognition** project was built in order to study the intricacies of **Facial Biometrics** and, the multiple training models used behind the process. A facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image <a href = "https://en.wikipedia.org/wiki/Facial_recognition_system">(wiki)</a>. 
 
-Facial recognition systems are primarily employed in facial biometrics and ID verification. You may head on the the <a href="#working">Working</a> section to view the working process of the program and, go ahead and head on to the <a href="#developments">Development</a> pane to know the current developement goals with this project.
+Facial recognition systems are primarily employed in facial biometrics and ID verification. You may head on the the <a href="#working">Working</a> section to view the working process of the project.
 
 This project has been developed using the *Python* programming language. This software further will require some modules for its working. The list of required modules and installation commands have been given in the <a href="#requirements">next</a> section.
 
