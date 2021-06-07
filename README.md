@@ -103,7 +103,9 @@ Every program is ever evolving and, that is possible only with valuable contribu
 
 <p align="center">
   <br>
-  <img src="https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png" alt="Logo" width="155" height="140"><br><br>
+  <a href="https://www.spiralcosmos.com">
+  <img src="https://github.com/YashvardhanG/YashvardhanG/blob/main/Spiral%20Cosmos.png" alt="Logo" width="155" height="140"><br>
+  </a>
   <a href = "https://www.spiralcosmos.com">Spiral Cosmos</a>
 </p>
 
