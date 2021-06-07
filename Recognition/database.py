@@ -2,6 +2,12 @@
 import cv2
 import os
 
+#Creating/Checking a Database Dir
+if os.path.exists('database'):
+    pass
+else:
+    os.mkdir('database')
+
 #Reseting Counter and Users
 dir = os.listdir('database')
 if len(dir) == 0:
