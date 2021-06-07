@@ -65,13 +65,24 @@ Currently, there are a total of two sections in this project.
   <li><b>Facial Biometrics:</b><br>This sections deals with the application of the previous section. It's a sample biometric system through which one can verify their identity. It's training and models are common to the previous one.</li><br>
 </ol>
 
-This project uses a pre-exisiting frontal face cascade known as the <a href = "https://github.com/opencv/opencv">haarcascade_frontalface_default</a>. This cascade helps in defining the facial features and hence, in recognition.
+This project uses a pre-exisiting frontal face cascade known as the <a href = "https://github.com/opencv/opencv">haarcascade_frontalface_default</a>. This cascade helps in defining the facial features and hence, in recognition.<br>
 
-<ol>
-<li>Photos are captured with the help of OpenCV. All photos are saved locally and no data is transferred or communicated.</li>
-<li>By using Numpy, the photos captured are trained and saved in a '.yml' trained model file.</li>
-<li>Finally, by using OpenCV and the previously trained model, the software recognises your identity and the percentage of facial matching.</li>
-</ol>
+The process is as follows:<br><br>
+
+<p align = "center">
+<img src="Resources/cascade.png" alt="Cascade" width="250" height="250"><br>
+<b>The 'box' around the face is defined by the usage of a cascade. Photos are captured with the help of OpenCV. All photos are saved locally and no data is transferred or communicated.</b><br><br>
+</p>
+<br><br>
+<p align = "center">
+<img src="Resources/databse.png" alt="Database" width="1150" height="200"><br>
+<b>The images captured are stored in a folder and then by using Numpy, the photos captured are trained and saved in a '.yml' trained model file.</b><br><br>
+</p>
+<br><br>
+<p align = "center">
+<img src="Resources/verification.png" alt="Logo" width="250" height="250"><br>
+<b>Finally, by using OpenCV and the previously trained model, the software recognises your identity and the percentage of facial matching. It displays the name given when the database is trained on the top, and the percentage of facial matching on the bottom.</b>
+</p>
 <br>
 
 **Note:** Make sure to pull and keep all these codes into a single directory.
