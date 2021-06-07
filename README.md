@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Yashvardhang/Facial-Recognition">
-    <img src="Resources/Icon.ico" alt="Logo" width="128" height="128">
+    <img src="Resources/recognition.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">Facial Recognition</h3>
@@ -68,9 +68,9 @@ Currently, there are a total of two sections in this project.
 This project uses a pre-exisiting frontal face cascade known as the <a href = "https://github.com/opencv/opencv">haarcascade_frontalface_default</a>. This cascade helps in defining the facial features and hence, in recognition.
 
 <ol>
-<li>Photos are captured with the help of OpenCV. All photos are saved locally and no data is transferred or communicated.
-<li>By using Numpy, the photos captured are trained and saved in a '.yml' trained model file.
-<li>Finally, by using OpenCV and the previously trained model, the software recognises your identity and the percentage of facial matching.
+<li>Photos are captured with the help of OpenCV. All photos are saved locally and no data is transferred or communicated.</li>
+<li>By using Numpy, the photos captured are trained and saved in a '.yml' trained model file.</li>
+<li>Finally, by using OpenCV and the previously trained model, the software recognises your identity and the percentage of facial matching.</li>
 </ol>
 
 <br>
@@ -112,5 +112,6 @@ Every program is ever evolving and, that is possible only with valuable contribu
 
 <ul>
   <li>Cascade for Frontal Face Detection: <a href = "https://github.com/opencv/opencv/tree/master/data/haarcascades">OpenCV (haarcascade_frontalface_default)</a></li>
+  <li>Icon: <a href = "https://www.flaticon.com/authors/eucalyp">Flaticon</a>
 </ul>
 
