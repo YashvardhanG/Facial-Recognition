@@ -75,7 +75,7 @@ The process is as follows:<br><br>
 </p>
 <br><br>
 <p align = "center">
-<img src="Resources/databse.png" alt="Database" width="1150" height="200"><br>
+<img src="Resources/databse.png" alt="Database" width="750" height="150"><br>
 <b>The images captured are stored in a folder and then by using Numpy, the photos captured are trained and saved in a '.yml' trained model file.</b><br><br>
 </p>
 <br><br>
