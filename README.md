@@ -72,8 +72,8 @@ This project uses a pre-exisiting frontal face cascade known as the <a href = "h
 <li>By using Numpy, the photos captured are trained and saved in a '.yml' trained model file.</li>
 <li>Finally, by using OpenCV and the previously trained model, the software recognises your identity and the percentage of facial matching.</li>
 </ol>
-
 <br>
+
 **Note:** Make sure to pull and keep all these codes into a single directory.
 <br><br>
 
